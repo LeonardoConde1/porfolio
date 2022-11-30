@@ -20,11 +20,11 @@ const Work = () => {
           React paginaWeb Application
         </span>
         <div className='pt-8 text-center'>
-            <a  target="_blank"href="https://leonardoconde1.github.io/paginaWeb.git">
-              <button target="_blank" className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Demo</button>
+            <a>
+              <button target="_blank" href="https://leonardoconde1.github.io/paginaWeb.git" className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Demo</button>
             </a>
-            <a target="_blank" href='https://github.com/LeonardoConde1/paginaWeb'>
-              <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Code</button>
+            <a>
+              <button target="_blank" href='https://github.com/LeonardoConde1/paginaWeb' className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Code</button>
             </a>
         </div>
         </div>
@@ -37,11 +37,11 @@ const Work = () => {
           React Weather Application
         </span>
         <div className='pt-8 text-center'>
-            <a target="_blank" href='https://leonardoconde1.github.io/WheatherApp/'>
-              <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Demo</button>
+            <a>
+              <button target="_blank" href='https://leonardoconde1.github.io/WheatherApp/' className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Demo</button>
             </a>
-            <a target="_blank" href='https://github.com/LeonardoConde1/WheatherApp.git'>
-              <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Code</button>
+            <a>
+              <button target="_blank" href='https://github.com/LeonardoConde1/WheatherApp.git' className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Code</button>
             </a>
         </div>
         </div>
