@@ -1,5 +1,6 @@
 import React from 'react'
-import workImg from '../assets/workImg.jpeg'
+import paginaWeb from '../assets/paginaWeb.png'
+import weather from '../assets/weather.png'
 
 const Work = () => {
   return (
@@ -11,23 +12,8 @@ const Work = () => {
         </div>
       <div className='grid sm:grid-cols-2 md:grid-cols-3 gap-4'>
         {/*grid item*/}
-        <div style={{backgroundImage: `url(${workImg})`}}  className='shadow-lg shadow-[#131922] group container rounded-md flex justify-center items-center mx-auto content-div'>
-      
-          <div className='opacity-0 group-hover:opacity-100'>
-            <span className='text-2xl font-bold text-white tracking-wider'>
-              React Weather Application
-            </span>
-            <div className='pt-8 text-center'>
-                <a href="/">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Demo</button>
-                </a>
-                <a href="/">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Code</button>
-                </a>
-            </div>
-            </div>
-          </div>
-          <div style={{backgroundImage: `url(${workImg})`}}  className='shadow-lg shadow-[#131922] group container rounded-md flex justify-center items-center mx-auto content-div'>
+       
+          <div style={{backgroundImage: `url(${paginaWeb})`}}  className='shadow-lg shadow-[#131922] group container rounded-md flex justify-center items-center mx-auto content-div'>
       
       <div className='opacity-0 group-hover:opacity-100'>
         <span className='text-2xl font-bold text-white tracking-wider'>
@@ -37,14 +23,14 @@ const Work = () => {
             <a href="/">
               <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Demo</button>
             </a>
-            <a href="/">
+            <a target="_blank" href='https://github.com/LeonardoConde1/paginaWeb'>
               <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Code</button>
             </a>
         </div>
         </div>
       </div>
 
-      <div style={{backgroundImage: `url(${workImg})`}}  className='shadow-lg shadow-[#131922] group container rounded-md flex justify-center items-center mx-auto content-div'>
+      <div style={{backgroundImage: `url(${weather})`}}  className='shadow-lg shadow-[#131922] group container rounded-md flex justify-center items-center mx-auto content-div'>
       
       <div className='opacity-0 group-hover:opacity-100'>
         <span className='text-2xl font-bold text-white tracking-wider'>
@@ -54,29 +40,13 @@ const Work = () => {
             <a href="/">
               <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Demo</button>
             </a>
-            <a href="/">
+            <a target="_blank" href='https://github.com/LeonardoConde1/WeatherApp'>
               <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Code</button>
             </a>
         </div>
         </div>
-      </div>
-      <div style={{backgroundImage: `url(${workImg})`}}  className='shadow-lg shadow-[#131922] group container rounded-md flex justify-center items-center mx-auto content-div'>
-      
-      <div className='opacity-0 group-hover:opacity-100'>
-        <span className='text-2xl font-bold text-white tracking-wider'>
-          React Weather Application
-        </span>
-        <div className='pt-8 text-center'>
-            <a href="/">
-              <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Demo</button>
-            </a>
-            <a href="/">
-              <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Code</button>
-            </a>
-        </div>
-        </div>
-      </div>
-      
+      </div>   
+    
         </div>
       </div>
     </div>

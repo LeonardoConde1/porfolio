@@ -59,22 +59,22 @@ const Navbar = () => {
         <div className='hidden lg:flex fixed flex-col top-[35%] left-0'>
         <ul>
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] bg-[#3177df]'>
-            <a className=' flex justify-between items-center w-full font-bold' 
+            <a target="_blank"  className=' flex justify-between items-center w-full font-bold' 
              href='https://www.linkedin.com/in/leonardo-conde-7a6168224/'>
               Linkedin <FaLinkedin size={30}/>
 
             </a>
           </li>
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] bg-[#383737]'>
-            <a className=' flex justify-between items-center w-full font-bold' 
-             href='https://github.com/LeonardoConde1'>
+            <a target="_blank"  className=' flex justify-between items-center w-full font-bold' 
+              href='https://github.com/LeonardoConde1'>
               Github <FaGithub size={30}/>
 
             </a>
           </li>
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] bg-[#a8e2a8]'>
-            <a className=' flex justify-between items-center w-full font-bold' 
-             href='/'>
+            <a target="_blank" className=' flex justify-between items-center w-full font-bold' 
+              href='/'>
               Email <HiOutlineMail size={30}/>
 
             </a>
