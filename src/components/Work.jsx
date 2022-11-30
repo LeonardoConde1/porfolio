@@ -17,11 +17,11 @@ const Work = () => {
       
       <div className='opacity-0 group-hover:opacity-100'>
         <span className='text-2xl font-bold text-white tracking-wider'>
-          React Weather Application
+          React paginaWeb Application
         </span>
         <div className='pt-8 text-center'>
             <a href="/">
-              <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Demo</button>
+              <button target="_blank" className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Demo</button>
             </a>
             <a target="_blank" href='https://github.com/LeonardoConde1/paginaWeb'>
               <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Code</button>
@@ -37,7 +37,7 @@ const Work = () => {
           React Weather Application
         </span>
         <div className='pt-8 text-center'>
-            <a target="_blank" href="https://github.com/LeonardoConde1/WheatherApp">
+            <a target="_blank" href="https://leonardoconde1.github.io/WheatherApp/">
               <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Demo</button>
             </a>
             <a target="_blank" href='https://github.com/LeonardoConde1/WheatherApp.git'>
