@@ -17,19 +17,11 @@ const Work = () => {
       
       <div className='opacity-0 group-hover:opacity-100'>
         <span className='text-2xl font-bold text-white tracking-wider'>
-<<<<<<< HEAD
           React page we Application
         </span>
         <div className='pt-8 text-center'>
             <a target="_blank" href="http://LeonardoConde1.github.io/paginaWeb">
               <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Demo</button>
-=======
-          React paginaWeb Application
-        </span>
-        <div className='pt-8 text-center'>
-            <a>
-              <button target="_blank" href="https://leonardoconde1.github.io/paginaWeb.git" className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Demo</button>
->>>>>>> c4ca40676019ab9c55169f6b639254b40e6241ee
             </a>
             <a>
               <button target="_blank" href='https://github.com/LeonardoConde1/paginaWeb' className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Code</button>
@@ -45,13 +37,8 @@ const Work = () => {
           React Weather Application
         </span>
         <div className='pt-8 text-center'>
-<<<<<<< HEAD
             <a target="_blank" href="https://leonardoconde1.github.io/WeatherApp/">
               <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Demo</button>
-=======
-            <a>
-              <button target="_blank" href='https://leonardoconde1.github.io/WheatherApp/' className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Demo</button>
->>>>>>> c4ca40676019ab9c55169f6b639254b40e6241ee
             </a>
             <a>
               <button target="_blank" href='https://github.com/LeonardoConde1/WheatherApp.git' className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Code</button>
