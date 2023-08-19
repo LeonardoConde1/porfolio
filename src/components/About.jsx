@@ -16,7 +16,7 @@ const About = () => {
                     <p>Hola, Soy Leonardo Conde un gusto</p>
                 </div>
                 <div>
-                    <p>Mi primera experiencia en el mundo de la programacion Web, graduado de la universidad Estatal de Sonora este 2022,
+                    <p>mi primera experiencia en el mundo de la programacion Web, graduado de la universidad Estatal de Sonora este 2022,
                         buscando experiencia laboral. Soy una persona que le gusta la informatica, investigar, los videojuegos, mangas y la musica.
                     </p>
                 </div>
